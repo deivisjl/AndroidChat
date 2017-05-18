@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043311171624",
+    "firebase_url": "https://chatdemo-be731.firebaseio.com",
+    "project_id": "chatdemo-be731",
+    "storage_bucket": "chatdemo-be731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043311171624:android:66d9ee082ad20f6f",
+        "android_client_info": {
+          "package_name": "edu.galileo.android.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043311171624-323n6aecpndhlksjfgq9h529fqh2tqap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.galileo.android.androidchat",
+            "certificate_hash": "e65eccf71756432c30cf2a0488c8bdbef3c0d7f2"
+          }
+        },
+        {
+          "client_id": "1043311171624-75rgugo7c06mu29p346ocn28n95drd5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBeWmsKRch5YDMtSPR5C2qCRAhgQsalE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043311171624-75rgugo7c06mu29p346ocn28n95drd5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
